@@ -1,2 +1,2 @@
 program:
-        message: This is a message retrieved from "remote-properties-client.yml" file.
+        message: This is a new message retrieved from "remote-properties-client.yml" file.
