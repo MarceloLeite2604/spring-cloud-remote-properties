@@ -1,0 +1,2 @@
+program:
+        message: This is a message retrieved from "remote-properties-client.yml" file.
