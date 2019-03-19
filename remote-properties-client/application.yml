@@ -1,2 +1,2 @@
 program:
-        message: This message was retrieved from \"application.yml\" file.
+        message: This message was retrieved from "application.yml" file.
