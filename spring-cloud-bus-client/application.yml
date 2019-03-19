@@ -1,0 +1,2 @@
+program:
+        message: This message was retrieved from "spring-cloud-bus-client/application.yml" file.
